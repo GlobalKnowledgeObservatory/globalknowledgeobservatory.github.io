@@ -31,7 +31,7 @@ header a {
 }
 
 .logo > * {
-  width: 1em;
+  width: unset;
   height: 100%;
 }
 
