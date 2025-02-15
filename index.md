@@ -1,9 +1,10 @@
 ---
 ---
 
-# Global Knowledge Observatory
+# The Global Knowledge Observatory
 
-An engaging 1-3 sentence description of your lab.
+In today’s rapidly evolving world, understanding how knowledge is produced, shared, and applied is more important than ever. The Global Knowledge Observatory is being established to provide a dedicated space for researchers, policymakers, and experts from diverse fields to explore the complex relationships between knowledge production, innovation processes, and their societal impact.
+Our vision is to bridge the gap between Social Sciences & Humanities (SSH) and Science, Technology, Engineering & Mathematics (STEM), fostering an integrated approach to studying knowledge production. By bringing together these perspectives, we aim to gain deeper insights into how scientific and technological advancements interact with societal expectations, policy frameworks, and economic and environmental challenges—across global, national, and regional levels.
 
 {% include section.html %}
 
