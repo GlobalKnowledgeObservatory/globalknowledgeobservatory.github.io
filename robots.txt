@@ -1,1 +1,1 @@
-Sitemap: https://globalknowledgeobservatory.github.io/global-knowledge-boservatory-website/sitemap.xml
+Sitemap: https://globalknowledgeobservatory.github.io/sitemap.xml
