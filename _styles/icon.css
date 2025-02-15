@@ -8,8 +8,8 @@ span.icon {
 
 span.icon > svg {
   position: relative;
-  top: 1em;
-  height: 5em;
+  top: 0.1em;
+  height: 1em;
 }
 
 /*# sourceMappingURL=icon.css.map */
