@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+At the Global Knowledge Observatory, our strength lies in the diverse expertise and dedication of our team members, who are committed to exploring the intricate relationships between knowledge production, innovation, and societal impact.
 
 {% include section.html %}
 
